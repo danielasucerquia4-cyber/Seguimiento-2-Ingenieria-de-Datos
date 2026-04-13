@@ -1,0 +1,26 @@
+# Requerimientos del Proyecto Seguimiento - Ingeniería de Datos
+# Aplicación Streamlit para análisis del Titanic
+
+# Core
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+
+# Utilities
+requests>=2.31.0
+
+# Jupyter (opcional para desarrollo)
+ipython>=8.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Para ejecución local
+# pip install -r requirements.txt
+# streamlit run app.py
